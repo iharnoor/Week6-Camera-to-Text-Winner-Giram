@@ -1,0 +1,29 @@
+{
+    "inventories" : [
+    {
+        "name": "Uncle Chips",
+        "url": "https://drive.usercontent.google.com/download?id=19k1A1s83kWtbBoWwumR8USHN3LSNA8PW&export=download&authuser=2&confirm=t&uuid=ab41fc82-3d82-42ac-9e5e-5ee80e67b987&at=APZUnTWkBxr3MXl3r9lBNTXrB7gW:1710596790533",
+        "count": 1
+    },
+    {
+        "name": "Kurkure",
+        "url": "https://drive.usercontent.google.com/download?id=1hyPQ5FmWMIkozdYXz-5eQMP9roBQGSFk&export=download&authuser=2&confirm=t&uuid=745d0a73-c53c-455a-8dae-bdfa16eeb3f3&at=APZUnTW7Wk243dJWhuVT0ikacIUn:1710597013307",
+        "count": 2
+    },
+    {
+        "name": "EraserF",
+        "url": "https://drive.usercontent.google.com/download?id=1fbP5JLy1Pz6JnzZJ7FZkb9j1Jcrh-3yF&export=download&authuser=2&confirm=t&uuid=b0b000ac-c80e-40f0-a918-294bb1d397d2&at=APZUnTW5jTtZdItH3OdVaiIwxk48:1710597011383",
+        "count": 3
+    },
+    {
+        "name": "Notebook",
+        "url": "https://drive.usercontent.google.com/download?id=1I_sTzSyiS_0B4ZRo3MY9wabKMeEnmbRK&export=download&authuser=2&confirm=t&uuid=da309335-a60b-46c7-9e82-b377942131c8&at=APZUnTWGAKa-YY6PgVqGVVlJk0ET:1710597010115",
+        "count": 4
+    },
+    {
+        "name": "Pencil",
+        "url": "https://drive.usercontent.google.com/download?id=10_LTfozSH1HnWZWcr_mpi7tQ9E6CQ8lW&export=download&authuser=2&confirm=t&uuid=6fed361d-db7a-491d-93ed-5511114aa155&at=APZUnTV16oQAC3S1LhCYaLOZY3Ir:1710597007840",
+        "count": 5
+    }
+    ]
+}
